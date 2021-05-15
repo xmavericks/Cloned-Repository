@@ -1,1 +1,3 @@
-## This is the just for the learning purpose of Git
+## Created for the learing purpose of GIT
+-> # Only for geeks and nerds
+-> # No time pass
