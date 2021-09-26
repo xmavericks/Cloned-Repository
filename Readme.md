@@ -1,1 +1,1 @@
-## This is the just for the learning purpose of Git
+# This is the just for the learning purpose of Git and its usase
